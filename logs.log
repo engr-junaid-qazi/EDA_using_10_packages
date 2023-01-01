@@ -1,0 +1,6 @@
+2022-12-12 22:08:29,635:WARNING:C:\Users\HP\AppData\Local\Temp\ipykernel_20032\4148227486.py:6: DtypeWarning: Columns (2) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv("city_temperature.csv")
+
+2022-12-12 22:09:16,346:WARNING:C:\Users\HP\AppData\Local\Temp\ipykernel_20032\4148227486.py:6: DtypeWarning: Columns (2) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv("city_temperature.csv")
+
